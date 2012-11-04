@@ -1,0 +1,21 @@
+{
+  "author": "George Stagas <gstagas@gmail.com>",
+  "name": "listenex",
+  "version": "0.0.1",
+  "main": "listenex.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stagas/listenex"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  , "chai": "*"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
